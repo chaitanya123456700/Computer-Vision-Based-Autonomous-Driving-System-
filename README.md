@@ -143,3 +143,19 @@ This project closely mirrors real-world autonomous driving system design, making
 ARCHITECTURE DIAGRAM 
 
 <img width="947" height="608" alt="Architecture divided into three modules " src="https://github.com/user-attachments/assets/26e0613e-a260-40bc-9f52-201020630923" />
+
+YOLO Workflow Diagram 
+
+<img width="526" height="606" alt="Yolo workflow " src="https://github.com/user-attachments/assets/6774033e-25d0-4191-8395-5d276751f2ce" />
+
+YOLO+MIDAS+ByteTrack workflow Diagram 
+
+<img width="465" height="615" alt="yolo+tracking+id+midas " src="https://github.com/user-attachments/assets/b58cf145-6e29-4cc6-b11e-06c409b6a797" />
+
+A*+Depth Diagram 
+
+<img width="522" height="613" alt="Screenshot 2025-11-23 at 12 23 56 AM" src="https://github.com/user-attachments/assets/b6d5dc0c-7107-4e80-8be2-f1991800a783" />
+
+
+
+
